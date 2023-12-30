@@ -1,4 +1,4 @@
-# ig_clone
+# CampusKraft - An everyday services booking app for IITR
 
 A new Flutter project.
 
